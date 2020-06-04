@@ -11,3 +11,5 @@ twitter_username: cervezamarvida # DO NOT include the @ character, or else the b
 github_username:  woodfordpd # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: jekyll-theme-cayman
